@@ -7,7 +7,7 @@ Practical notebooks for the SciML workshop
 * Go to colab [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb)
 *	File → Open Notebook
 *	Click tab "Github"
-*	In the search box enter https://github.com/stfc-sciml/sciml-workshop
+*	In the search box enter https://github.com/stfc-ai4s/sciml-workshop-tf
 *	Scroll down and choose the appropriate lesson
 *	Authorise yourself with Google.
 
