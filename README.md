@@ -38,7 +38,7 @@ Keith Butler, Kuangdai Leng, Sam Jackson, Jaehoon Cha, Susmita Basak, Yeung Siu-
 
 #### Authors of modules
 
-* CLASSICAL: Keith Butler, Kuangdai Leng, Sam Jackson
+* CLASSICAL: Keith Butler, Kuangdai Leng, Sam Jackson, Bhumika Mistry
 * DNN: Keith Butler, Kuangdai Leng
 * CNN: Keith Butler, Kuangdai Leng, Susmita Basak
 * LSTM: Keith Butler, Kuangdai Leng
